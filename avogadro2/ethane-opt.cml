@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<molecule xmlns="http://www.xml-cml.org/schema">
+ <atomArray>
+  <atom id="a1" elementType="C" hydrogenCount="3" x3="-1.003690" y3="0.593017" z3="0.000013"/>
+  <atom id="a2" elementType="C" hydrogenCount="3" x3="-0.234115" y3="-0.716842" z3="-0.000014"/>
+  <atom id="a3" elementType="H" hydrogenCount="0" x3="-0.904261" y3="-1.547074" z3="-0.307484"/>
+  <atom id="a4" elementType="H" hydrogenCount="0" x3="0.616510" y3="-0.653575" z3="-0.710904"/>
+  <atom id="a5" elementType="H" hydrogenCount="0" x3="0.157364" y3="-0.923370" z3="1.018324"/>
+  <atom id="a6" elementType="H" hydrogenCount="0" x3="-1.395170" y3="0.799548" z3="-1.018334"/>
+  <atom id="a7" elementType="H" hydrogenCount="0" x3="-1.854319" y3="0.529751" z3="0.710908"/>
+  <atom id="a8" elementType="H" hydrogenCount="0" x3="-0.333536" y3="1.423257" z3="0.307486"/>
+ </atomArray>
+ <bondArray>
+  <bond atomRefs2="a1 a2" order="1"/>
+  <bond atomRefs2="a2 a3" order="1"/>
+  <bond atomRefs2="a2 a4" order="1"/>
+  <bond atomRefs2="a2 a5" order="1"/>
+  <bond atomRefs2="a1 a6" order="1"/>
+  <bond atomRefs2="a1 a7" order="1"/>
+  <bond atomRefs2="a1 a8" order="1"/>
+ </bondArray>
+</molecule>

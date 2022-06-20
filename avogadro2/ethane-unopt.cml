@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<molecule xmlns="http://www.xml-cml.org/schema" xmlns:cml="http://www.xml-cml.org/dict/cml" xmlns:units="http://www.xml-cml.org/units/units" xmlns:xsd="http://www.w3c.org/2001/XMLSchema" xmlns:iupac="http://www.iupac.org">
+  <atomArray>
+    <atom id="a1" elementType="C" x3="-1.58852" y3="1.58852" z3="-3.96967e-07" />
+    <atom id="a2" elementType="C" x3="0.350712" y3="-1.7123" z3="-2.77877e-06" />
+    <atom id="a3" elementType="H" x3="-0.299895" y3="-2.5082" z3="-0.296919" />
+    <atom id="a4" elementType="H" x3="1.16873" y3="-1.64538" z3="-0.686499" />
+    <atom id="a5" elementType="H" x3="0.725314" y3="-1.90589" z3="0.983408" />
+    <atom id="a6" elementType="H" x3="-1.96312" y3="1.78211" z3="-0.983412" />
+    <atom id="a7" elementType="H" x3="-2.40653" y3="1.5216" z3="0.686496" />
+    <atom id="a8" elementType="H" x3="-0.937914" y3="2.38442" z3="0.296916" />
+  </atomArray>
+  <bondArray>
+    <bond atomRefs2="a1 a2" order="1" />
+    <bond atomRefs2="a2 a3" order="1" />
+    <bond atomRefs2="a2 a4" order="1" />
+    <bond atomRefs2="a2 a5" order="1" />
+    <bond atomRefs2="a1 a6" order="1" />
+    <bond atomRefs2="a1 a7" order="1" />
+    <bond atomRefs2="a1 a8" order="1" />
+  </bondArray>
+</molecule>
