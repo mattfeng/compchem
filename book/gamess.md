@@ -20,6 +20,10 @@ cd ~/gamess
 ```
 
 Choose the following options:
+* Platform: `linux64`
+* Installation directory: `/home/ubuntu/gamess`
+* GAMESS build location: `/home/ubuntu/gamess`
+* GAMESS version number: `00`
 * LibXC? `yes`
 * DDI communication method: `sockets`
 
