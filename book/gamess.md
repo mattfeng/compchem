@@ -29,7 +29,11 @@ Choose the following options:
 * LibXC? `yes`
 * DDI communication method: `sockets`
 
-### Download and compile LibXC
+### Download and compile [Libxc](https://tddft.org/programs/libxc/)
+
+Libxc is a library of exchange-correlation and kinetic energy functionals for density-functional theory.
+
+Current reference for Libxc: https://www.sciencedirect.com/science/article/pii/S2352711017300602.
 
 ```bash
 ~/gamess $ ./tools/libxc/download-libxc.csh
