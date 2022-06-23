@@ -2,7 +2,7 @@
 
 - Textbook: Inorganic Chemistry (5th Edition) by Gary L. Miessler, Paul J. Fischer, and Donald A. Tarr
 
-## Lectures
+## [Lectures](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7kGnKLTbdwZ3IGVNXK43k7S)
 1. Course Introduction & Symmetry of Nature
 2. Symmetry and Point Groups
 3. Representations and Character Tables
