@@ -6,6 +6,8 @@
 
 - **HF**. Hartree-Fock
 - **UHF**. Unrestricted Hartree-Fock
+- **MP2**. Møller–Plesset perturbation theory
+- **DHDF**. double hybrid DFT
 - **CCSD(T)**. Coupled cluster single-double and perturbative triple 
 - **CASSCF**. Complete active space SCF method (multiconfigurational self-consistent field).
 - **B3LYP**. Becke, 3-parameter, Lee–Yang–Parr, hybrid functional
